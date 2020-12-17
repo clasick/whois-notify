@@ -1,8 +1,0 @@
-[2020-12-16][02:54:46][domain][INFO] Wrote into result.txt file.
-[2020-12-16][02:54:46][domain][INFO] WHOIS is the same.
-[2020-12-16][02:54:56][domain][INFO] Wrote into result.txt file.
-[2020-12-16][02:54:56][domain][INFO] WHOIS is the same.
-[2020-12-16][02:55:58][domain][INFO] Wrote into result.txt file.
-[2020-12-16][02:55:58][domain][INFO] WHOIS is the same.
-[2020-12-16][02:56:50][domain][INFO] Wrote into result.txt file.
-[2020-12-16][02:56:50][domain][INFO] WHOIS is the same.
