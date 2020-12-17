@@ -129,3 +129,17 @@ fn main() {
         std::thread::sleep(Duration::from_millis(500));
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn check_notifications() {
+        Notification::new()
+            .summary("Test notification")
+            .body("Test notification")
+            .show()
+            .unwrap();
+    }
+}
