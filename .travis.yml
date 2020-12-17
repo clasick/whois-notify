@@ -1,0 +1,10 @@
+language: rust
+
+os:
+- linux
+- windows
+
+addons:
+  apt:
+    update: true
+    packages: libdbus-1-dev
