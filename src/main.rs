@@ -135,6 +135,7 @@ mod tests {
     use super::*;
 
     #[test]
+    #[ignore]
     fn check_notifications() {
         Notification::new()
             .summary("Test notification")
